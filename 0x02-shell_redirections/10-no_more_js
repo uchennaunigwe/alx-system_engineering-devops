@@ -1,2 +1,2 @@
 #!/bin/bash
-rm ./*.js -tpye f
+find . -type f *.js| rm 
